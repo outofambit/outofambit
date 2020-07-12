@@ -1,4 +1,4 @@
-### hi there 👋
+### hi, hello, how are you 😺
 
 - 🦆 i use [they/she pronouns](http://pronoun.is/they/.../themself?or=she)
 - 👯‍♀️ i’m currently working on tools to help communities on @github
